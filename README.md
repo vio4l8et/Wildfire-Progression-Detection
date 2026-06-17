@@ -21,9 +21,9 @@
 - Real-time visualization and monitoring
 - Lightweight and high-speed inference
 
-### Demostration
+### Demonstration
 
-
+<img src="figures/Demonstration.png" width="100%">
 
 ---
 
@@ -57,15 +57,7 @@
 
 ### Overall Framework
 
-```text
-Raw Images
-→ Data Preprocessing
-→ YOLOv11 Training
-→ Fire & Smoke Detection
-→ Event Generation
-→ Wildfire Stage Classification
-→ Visualization
-```
+<img src="figures/Pipeline.png" width="100%">
 
 ### Wildfire Progression Stages
 
@@ -214,9 +206,5 @@ Raw Images
 
 ### Qualitative Results
 
-- Fire size classification
-- Smoke type recognition
-- Wildfire progression stage prediction
-- Real-time visualization
-
-<!-- Insert result images here -->
+<img src="figures/Confusion_Matrix.png" width="50%">
+<img src="figures/Qualitative_Result.png" width="100%">
