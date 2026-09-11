@@ -23,7 +23,8 @@
 
 ### Demonstration
 
-<img src="figures/Demonstration.png" width="100%">
+<img src="figures/Demonstration_1.mp4" width="100%">
+<img src="figures/Demonstration_2.mp4" width="100%">
 
 ---
 
