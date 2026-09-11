@@ -23,8 +23,8 @@
 
 ### Demonstration
 
-<img src="figures/Demonstration_1.mp4" width="100%">
-<img src="figures/Demonstration_2.mp4" width="100%">
+https://github.com/user-attachments/assets/6ea4e5dc-bf10-4dbf-aac5-227fafce690a
+https://github.com/user-attachments/assets/b8174c55-bea2-4348-911c-14cd2a37fa73
 
 ---
 
